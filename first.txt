@@ -1,2 +1,4 @@
 git begginer
 add text
+.git add
+.git commit
